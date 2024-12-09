@@ -1,2 +1,2 @@
-# Discord
-Můj osobní Discord Bot, přes TypeScript! 😎
+# Discord Bot 🎲
+> Můj osobní Discord Bot, přes TypeScript! 😎
